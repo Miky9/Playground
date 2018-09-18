@@ -1,1 +1,1 @@
-here:
+https://www.dotnetperls.com/dictionary
